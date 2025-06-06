@@ -66,6 +66,3 @@ Returns the generated text from Gemini.
     uvicorn main:app --reload
     ```
 
-## License
-
-MIT
